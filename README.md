@@ -1,3 +1,4 @@
+#CMS
 1. Put files into directory /www/
 2. Create admin, includes, img, css, Install, jQuery folders
 3. CHMOD FOLDERS
