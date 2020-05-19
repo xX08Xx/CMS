@@ -4,7 +4,7 @@
 $host = "localhost";    /* Host name */
 $user = "root";         /* User */
 $password = "";         /* Password */
-$dbname = "streaming";   /* Database name */
+$dbname = "demo";   /* Database name */
 
 // Create connection
 $con = mysqli_connect($host, $user, $password,$dbname);
